@@ -3,7 +3,7 @@
 bin
 obj
 *.db
-
+ClientApp_
 
 
 ## Ignore Visual Studio temporary files, build results, and
